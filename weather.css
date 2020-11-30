@@ -11,6 +11,13 @@ body {
     background-position: top center;
 }
 
+.typehere {
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
 .app-wrap {
     display: flex;
     flex-direction: column;
